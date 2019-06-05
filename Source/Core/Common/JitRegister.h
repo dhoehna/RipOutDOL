@@ -5,7 +5,7 @@
 #pragma once
 #include <stdarg.h>
 #include <string>
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace JitRegister
 {

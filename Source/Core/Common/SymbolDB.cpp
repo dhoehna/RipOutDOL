@@ -7,9 +7,9 @@
 #include <string>
 #include <utility>
 
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/SymbolDB.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "SymbolDB.h"
 
 namespace Common
 {

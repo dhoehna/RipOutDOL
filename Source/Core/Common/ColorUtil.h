@@ -4,7 +4,7 @@
 
 #pragma once
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

@@ -4,10 +4,10 @@
 
 #include <memory>
 
-#include "Common/Assert.h"
-#include "Common/GL/GLContext.h"
-#include "Common/GL/GLUtil.h"
-#include "Common/Logging/Log.h"
+#include "Assert.h"
+#include "GL/GLContext.h"
+#include "GL/GLUtil.h"
+#include "Logging/Log.h"
 
 namespace GLUtil
 {

@@ -10,14 +10,14 @@
 #include <ostream>
 #include <string>
 
-#include "Common/CommonPaths.h"
-#include "Common/Config/Config.h"
-#include "Common/FileUtil.h"
-#include "Common/Logging/ConsoleListener.h"
-#include "Common/Logging/Log.h"
-#include "Common/Logging/LogManager.h"
-#include "Common/StringUtil.h"
-#include "Common/Timer.h"
+#include "CommonPaths.h"
+#include "Config/Config.h"
+#include "FileUtil.h"
+#include "Logging/ConsoleListener.h"
+#include "Logging/Log.h"
+#include "Logging/LogManager.h"
+#include "StringUtil.h"
+#include "Timer.h"
 
 constexpr size_t MAX_MSGLEN = 1024;
 

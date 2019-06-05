@@ -21,7 +21,7 @@
 ** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 */
 
-#include "Common/GL/GLExtensions/gl_common.h"
+#include "GL/GLExtensions/gl_common.h"
 
 typedef void(APIENTRYP PFNDOLVIEWPORTARRAYVPROC)(GLuint first, GLsizei count, const GLfloat* v);
 typedef void(APIENTRYP PFNDOLVIEWPORTINDEXEDFPROC)(GLuint index, GLfloat x, GLfloat y, GLfloat w,

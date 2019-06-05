@@ -11,7 +11,7 @@
 #include <atomic>
 #include <cstddef>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

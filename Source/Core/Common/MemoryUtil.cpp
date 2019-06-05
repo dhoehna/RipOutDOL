@@ -6,15 +6,15 @@
 #include <cstdlib>
 #include <string>
 
-#include "Common/CommonFuncs.h"
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/MemoryUtil.h"
-#include "Common/MsgHandler.h"
+#include "CommonFuncs.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "MemoryUtil.h"
+#include "MsgHandler.h"
 
 #ifdef _WIN32
 #include <windows.h>
-#include "Common/StringUtil.h"
+#include "StringUtil.h"
 #else
 #include <stdio.h>
 #include <sys/mman.h>

@@ -21,7 +21,7 @@
 ** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 */
 
-#include "Common/GL/GLExtensions/gl_common.h"
+#include "GL/GLExtensions/gl_common.h"
 
 #define GL_CONTEXT_LOST 0x0507
 #define GL_NEGATIVE_ONE_TO_ONE 0x935E

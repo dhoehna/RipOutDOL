@@ -5,9 +5,9 @@
 #include <cstring>
 #include <string>
 
-#include "Common/CPUDetect.h"
-#include "Common/CommonTypes.h"
-#include "Common/Intrinsics.h"
+#include "CPUDetect.h"
+#include "CommonTypes.h"
+#include "Intrinsics.h"
 
 #ifndef _WIN32
 

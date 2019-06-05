@@ -7,8 +7,8 @@
 #include <array>
 #include <cstdarg>
 
-#include "Common/BitSet.h"
-#include "Common/Logging/Log.h"
+#include "BitSet.h"
+#include "Logging/Log.h"
 
 // pure virtual interface
 class LogListener

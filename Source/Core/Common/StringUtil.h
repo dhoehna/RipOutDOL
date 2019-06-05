@@ -12,7 +12,7 @@
 #include <type_traits>
 #include <vector>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 std::string StringFromFormatV(const char* format, va_list args);
 

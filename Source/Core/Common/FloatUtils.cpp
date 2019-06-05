@@ -2,11 +2,11 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/FloatUtils.h"
+#include "FloatUtils.h"
 
 #include <cmath>
 
-#include "Common/BitUtils.h"
+#include "BitUtils.h"
 
 namespace Common
 {

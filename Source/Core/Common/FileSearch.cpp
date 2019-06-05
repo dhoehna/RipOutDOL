@@ -5,8 +5,8 @@
 #include <algorithm>
 #include <functional>
 
-#include "Common/CommonPaths.h"
-#include "Common/FileSearch.h"
+#include "CommonPaths.h"
+#include "FileSearch.h"
 
 #ifdef _MSC_VER
 #include <Windows.h>
@@ -15,8 +15,8 @@ namespace fs = std::experimental::filesystem;
 #define HAS_STD_FILESYSTEM
 #else
 #include <cstring>
-#include "Common/CommonFuncs.h"
-#include "Common/FileUtil.h"
+#include "CommonFuncs.h"
+#include "FileUtil.h"
 #endif
 
 namespace Common

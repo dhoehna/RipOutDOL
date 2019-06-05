@@ -5,8 +5,8 @@
 #include <cstdio>
 #include <cstring>
 
-#include "Common/CommonTypes.h"
-#include "Common/Crypto/bn.h"
+#include "CommonTypes.h"
+#include "Crypto/bn.h"
 
 static void bn_zero(u8* d, int n)
 {

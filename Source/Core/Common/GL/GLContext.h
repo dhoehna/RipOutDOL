@@ -9,8 +9,8 @@
 #include <string>
 #include <utility>
 
-#include "Common/CommonTypes.h"
-#include "Common/WindowSystemInfo.h"
+#include "CommonTypes.h"
+#include "WindowSystemInfo.h"
 
 class GLContext
 {

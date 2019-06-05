@@ -4,24 +4,24 @@
 
 #include <memory>
 
-#include "Common/GL/GLContext.h"
+#include "GL/GLContext.h"
 
 #if defined(__APPLE__)
-#include "Common/GL/GLInterface/AGL.h"
+#include "GL/GLInterface/AGL.h"
 #endif
 #if defined(WIN32)
-#include "Common/GL/GLInterface/WGL.h"
+#include "GL/GLInterface/WGL.h"
 #endif
 #if HAVE_X11
-#include "Common/GL/GLInterface/GLX.h"
+#include "GL/GLInterface/GLX.h"
 #endif
 #if HAVE_EGL
-#include "Common/GL/GLInterface/EGL.h"
+#include "GL/GLInterface/EGL.h"
 #if HAVE_X11
-#include "Common/GL/GLInterface/EGLX11.h"
+#include "GL/GLInterface/EGLX11.h"
 #endif
 #if defined(ANDROID)
-#include "Common/GL/GLInterface/EGLAndroid.h"
+#include "GL/GLInterface/EGLAndroid.h"
 #endif
 #endif
 

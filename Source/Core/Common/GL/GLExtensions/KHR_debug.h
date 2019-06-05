@@ -21,7 +21,7 @@
 ** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 */
 
-#include "Common/GL/GLExtensions/gl_common.h"
+#include "GL/GLExtensions/gl_common.h"
 
 #define GL_CONTEXT_FLAG_DEBUG_BIT 0x00000002
 #define GL_STACK_OVERFLOW 0x0503

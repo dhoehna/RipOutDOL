@@ -7,7 +7,7 @@
 #include <string>
 #include <winternl.h>
 
-#include "Common/LdrWatcher.h"
+#include "LdrWatcher.h"
 
 typedef struct _LDR_DLL_LOADED_NOTIFICATION_DATA
 {

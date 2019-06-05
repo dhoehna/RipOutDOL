@@ -11,9 +11,9 @@
 #include <type_traits>
 #include <vector>
 
-#include "Common/Config/ConfigInfo.h"
-#include "Common/Config/Enums.h"
-#include "Common/StringUtil.h"
+#include "Config/ConfigInfo.h"
+#include "Config/Enums.h"
+#include "StringUtil.h"
 
 namespace Config
 {

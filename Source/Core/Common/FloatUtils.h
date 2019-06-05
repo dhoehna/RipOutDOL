@@ -7,8 +7,8 @@
 #include <array>
 #include <limits>
 
-#include "Common/BitUtils.h"
-#include "Common/CommonTypes.h"
+#include "BitUtils.h"
+#include "CommonTypes.h"
 
 #ifdef _MSC_VER
 

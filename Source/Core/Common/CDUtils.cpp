@@ -9,10 +9,10 @@
 #include <string>
 #include <vector>
 
-#include "Common/CDUtils.h"
-#include "Common/Common.h"
-#include "Common/CommonTypes.h"
-#include "Common/StringUtil.h"
+#include "CDUtils.h"
+#include "Common.h"
+#include "CommonTypes.h"
+#include "StringUtil.h"
 
 #ifdef _WIN32
 #include <windows.h>

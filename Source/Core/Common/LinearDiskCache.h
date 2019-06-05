@@ -10,9 +10,9 @@
 #include <string>
 #include <type_traits>
 
-#include "Common/CommonTypes.h"
-#include "Common/FileUtil.h"
-#include "Common/Version.h"
+#include "CommonTypes.h"
+#include "FileUtil.h"
+#include "Version.h"
 
 // On disk format:
 // header{

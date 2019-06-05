@@ -6,7 +6,7 @@
 
 #include <windows.h>
 #include <string>
-#include "Common/GL/GLContext.h"
+#include "GL/GLContext.h"
 
 class GLContextWGL final : public GLContext
 {

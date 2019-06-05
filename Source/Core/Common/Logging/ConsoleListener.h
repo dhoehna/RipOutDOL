@@ -4,7 +4,7 @@
 
 #pragma once
 
-#include "Common/Logging/LogManager.h"
+#include "Logging/LogManager.h"
 
 class ConsoleListener : public LogListener
 {

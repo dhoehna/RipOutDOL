@@ -16,8 +16,8 @@
 #include <cstddef>
 #include <memory>
 
-#include "Common/CommonTypes.h"
-#include "Common/File.h"
+#include "CommonTypes.h"
+#include "File.h"
 
 namespace Common
 {

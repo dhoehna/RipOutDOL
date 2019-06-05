@@ -21,7 +21,7 @@
 ** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 */
 
-#include "Common/GL/GLExtensions/gl_common.h"
+#include "GL/GLExtensions/gl_common.h"
 
 #define GL_COPY_READ_BUFFER_BINDING 0x8F36
 #define GL_COPY_WRITE_BUFFER_BINDING 0x8F37

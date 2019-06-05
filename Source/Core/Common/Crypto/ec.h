@@ -6,7 +6,7 @@
 
 #include <array>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common::ec
 {

@@ -2,7 +2,7 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/HttpRequest.h"
+#include "HttpRequest.h"
 
 #include <chrono>
 #include <cstddef>
@@ -10,9 +10,9 @@
 
 #include <curl/curl.h>
 
-#include "Common/Logging/Log.h"
-#include "Common/ScopeGuard.h"
-#include "Common/StringUtil.h"
+#include "Logging/Log.h"
+#include "ScopeGuard.h"
+#include "StringUtil.h"
 
 namespace Common
 {

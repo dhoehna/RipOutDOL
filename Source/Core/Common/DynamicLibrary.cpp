@@ -2,10 +2,10 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/DynamicLibrary.h"
+#include "DynamicLibrary.h"
 #include <cstring>
-#include "Common/Assert.h"
-#include "Common/StringUtil.h"
+#include "Assert.h"
+#include "StringUtil.h"
 
 #ifdef _WIN32
 #include <Windows.h>

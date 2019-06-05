@@ -4,7 +4,7 @@
 
 #include "ENetUtil.h"
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace ENetUtil
 {

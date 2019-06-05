@@ -7,12 +7,12 @@
 #include <set>
 #include <string>
 
-#include "Common/CommonFuncs.h"
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/MemArena.h"
-#include "Common/MsgHandler.h"
-#include "Common/StringUtil.h"
+#include "CommonFuncs.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "MemArena.h"
+#include "MsgHandler.h"
+#include "StringUtil.h"
 
 #ifdef _WIN32
 #include <windows.h>

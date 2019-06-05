@@ -9,9 +9,9 @@
 
 #include <enet/enet.h>
 
-#include "Common/CommonTypes.h"
-#include "Common/Thread.h"
-#include "Common/TraversalProto.h"
+#include "CommonTypes.h"
+#include "Thread.h"
+#include "TraversalProto.h"
 
 class TraversalClientClient
 {

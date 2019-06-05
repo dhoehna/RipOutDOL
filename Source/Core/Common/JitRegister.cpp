@@ -9,10 +9,10 @@
 #include <fstream>
 #include <string>
 
-#include "Common/CommonTypes.h"
-#include "Common/File.h"
-#include "Common/JitRegister.h"
-#include "Common/StringUtil.h"
+#include "CommonTypes.h"
+#include "File.h"
+#include "JitRegister.h"
+#include "StringUtil.h"
 
 #ifdef _WIN32
 #include <process.h>

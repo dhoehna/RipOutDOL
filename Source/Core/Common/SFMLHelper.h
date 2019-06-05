@@ -4,8 +4,8 @@
 
 #pragma once
 
-#include "Common/CommonTypes.h"
-#include "Common/Swap.h"
+#include "CommonTypes.h"
+#include "Swap.h"
 
 namespace sf
 {

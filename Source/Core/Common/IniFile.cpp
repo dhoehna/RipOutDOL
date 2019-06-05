@@ -2,7 +2,7 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/IniFile.h"
+#include "IniFile.h"
 
 #include <algorithm>
 #include <cinttypes>
@@ -14,9 +14,9 @@
 #include <utility>
 #include <vector>
 
-#include "Common/CommonTypes.h"
-#include "Common/FileUtil.h"
-#include "Common/StringUtil.h"
+#include "CommonTypes.h"
+#include "FileUtil.h"
+#include "StringUtil.h"
 
 void IniFile::ParseLine(const std::string& line, std::string* keyOut, std::string* valueOut)
 {

@@ -7,7 +7,7 @@
 #include <errno.h>
 #include <type_traits>
 
-#include "Common/CommonFuncs.h"
+#include "CommonFuncs.h"
 
 #ifdef _WIN32
 #include <windows.h>

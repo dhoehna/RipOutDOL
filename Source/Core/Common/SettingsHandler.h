@@ -9,7 +9,7 @@
 #include <array>
 #include <string>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

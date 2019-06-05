@@ -4,7 +4,7 @@
 
 #include <mbedtls/aes.h>
 
-#include "Common/Crypto/AES.h"
+#include "Crypto/AES.h"
 
 namespace Common
 {

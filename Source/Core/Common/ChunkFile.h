@@ -25,11 +25,11 @@
 #include <utility>
 #include <vector>
 
-#include "Common/Assert.h"
-#include "Common/CommonTypes.h"
-#include "Common/Compiler.h"
-#include "Common/Flag.h"
-#include "Common/Logging/Log.h"
+#include "Assert.h"
+#include "CommonTypes.h"
+#include "Compiler.h"
+#include "Flag.h"
+#include "Logging/Log.h"
 
 // XXX: Replace this with std::is_trivially_copyable<T> once we stop using volatile
 // on things that are put in savestates, as volatile types are not trivially copyable.

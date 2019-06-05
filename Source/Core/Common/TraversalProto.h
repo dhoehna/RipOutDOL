@@ -2,7 +2,7 @@
 
 #pragma once
 #include <array>
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 #define NETPLAY_CODE_SIZE 8
 typedef std::array<char, NETPLAY_CODE_SIZE> TraversalHostId;

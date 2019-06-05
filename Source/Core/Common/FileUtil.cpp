@@ -13,14 +13,14 @@
 #include <sys/stat.h>
 #include <vector>
 
-#include "Common/Assert.h"
-#include "Common/Common.h"
-#include "Common/CommonFuncs.h"
-#include "Common/CommonPaths.h"
-#include "Common/CommonTypes.h"
-#include "Common/File.h"
-#include "Common/FileUtil.h"
-#include "Common/Logging/Log.h"
+#include "Assert.h"
+#include "Common.h"
+#include "CommonFuncs.h"
+#include "CommonPaths.h"
+#include "CommonTypes.h"
+#include "File.h"
+#include "FileUtil.h"
+#include "Logging/Log.h"
 
 #ifdef _WIN32
 #include <windows.h>

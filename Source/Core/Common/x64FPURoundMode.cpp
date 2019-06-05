@@ -4,10 +4,10 @@
 
 #include <cfenv>
 
-#include "Common/CPUDetect.h"
-#include "Common/CommonTypes.h"
-#include "Common/FPURoundMode.h"
-#include "Common/Intrinsics.h"
+#include "CPUDetect.h"
+#include "CommonTypes.h"
+#include "FPURoundMode.h"
+#include "Intrinsics.h"
 
 namespace FPURoundMode
 {

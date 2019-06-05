@@ -2,7 +2,7 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Matrix.h"
+#include "Matrix.h"
 
 #include <algorithm>
 #include <cmath>

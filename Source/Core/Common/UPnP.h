@@ -6,7 +6,7 @@
 
 #ifdef USE_UPNP
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace UPnP
 {

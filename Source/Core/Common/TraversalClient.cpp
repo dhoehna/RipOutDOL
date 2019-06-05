@@ -1,15 +1,15 @@
 // This file is public domain, in case it's useful to anyone. -comex
 
-#include "Common/TraversalClient.h"
+#include "TraversalClient.h"
 
 #include <cstddef>
 #include <cstring>
 #include <string>
 
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/MsgHandler.h"
-#include "Common/Random.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "MsgHandler.h"
+#include "Random.h"
 #include "Core/NetPlayProto.h"
 
 TraversalClient::TraversalClient(ENetHost* netHost, const std::string& server, const u16 port)

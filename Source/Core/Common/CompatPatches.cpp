@@ -8,9 +8,9 @@
 #include <vector>
 #include <winternl.h>
 
-#include "Common/CommonTypes.h"
-#include "Common/LdrWatcher.h"
-#include "Common/StringUtil.h"
+#include "CommonTypes.h"
+#include "LdrWatcher.h"
+#include "StringUtil.h"
 
 typedef NTSTATUS(NTAPI* PRTL_HEAP_COMMIT_ROUTINE)(IN PVOID Base, IN OUT PVOID* CommitAddress,
                                                   IN OUT PSIZE_T CommitSize);

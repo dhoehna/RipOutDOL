@@ -6,7 +6,7 @@
 
 #include <string>
 
-#include "Common/GL/GLExtensions/GLExtensions.h"
+#include "GL/GLExtensions/GLExtensions.h"
 
 class GLContext;
 

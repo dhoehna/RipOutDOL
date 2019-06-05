@@ -2,8 +2,8 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/ColorUtil.h"
-#include "Common/Swap.h"
+#include "ColorUtil.h"
+#include "Swap.h"
 
 namespace Common
 {

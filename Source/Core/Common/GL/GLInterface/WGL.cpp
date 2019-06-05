@@ -6,9 +6,9 @@
 #include <array>
 #include <string>
 
-#include "Common/GL/GLInterface/WGL.h"
-#include "Common/Logging/Log.h"
-#include "Common/MsgHandler.h"
+#include "GL/GLInterface/WGL.h"
+#include "Logging/Log.h"
+#include "MsgHandler.h"
 
 // from wglext.h
 #ifndef WGL_ARB_pbuffer

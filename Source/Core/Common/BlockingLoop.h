@@ -8,8 +8,8 @@
 #include <mutex>
 #include <thread>
 
-#include "Common/Event.h"
-#include "Common/Flag.h"
+#include "Event.h"
+#include "Flag.h"
 
 namespace Common
 {

@@ -7,8 +7,8 @@
 #include <mbedtls/md5.h>
 #include <string>
 
-#include "Common/MD5.h"
-#include "Common/StringUtil.h"
+#include "MD5.h"
+#include "StringUtil.h"
 #include "DiscIO/Blob.h"
 
 namespace MD5

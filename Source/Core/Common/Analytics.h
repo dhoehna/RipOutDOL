@@ -12,11 +12,11 @@
 #include <utility>
 #include <vector>
 
-#include "Common/CommonTypes.h"
-#include "Common/Event.h"
-#include "Common/Flag.h"
-#include "Common/HttpRequest.h"
-#include "Common/SPSCQueue.h"
+#include "CommonTypes.h"
+#include "Event.h"
+#include "Flag.h"
+#include "HttpRequest.h"
+#include "SPSCQueue.h"
 
 // Utilities for analytics reporting in Dolphin. This reporting is designed to
 // provide anonymous data about how well Dolphin performs in the wild. It also

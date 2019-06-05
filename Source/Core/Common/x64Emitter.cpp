@@ -5,11 +5,11 @@
 #include <cinttypes>
 #include <cstring>
 
-#include "Common/CPUDetect.h"
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/x64Emitter.h"
-#include "Common/x64Reg.h"
+#include "CPUDetect.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "x64Emitter.h"
+#include "x64Reg.h"
 
 namespace Gen
 {

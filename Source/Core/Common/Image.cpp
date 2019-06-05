@@ -2,13 +2,13 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Image.h"
+#include "Image.h"
 
 #include <vector>
 
 #include <png.h>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

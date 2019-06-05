@@ -6,11 +6,11 @@
 #include <cstdio>
 #include <string>
 
-#include "Common/Common.h"
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/MsgHandler.h"
-#include "Common/StringUtil.h"
+#include "Common.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "MsgHandler.h"
+#include "StringUtil.h"
 
 #ifdef _WIN32
 #include <windows.h>

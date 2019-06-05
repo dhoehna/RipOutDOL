@@ -10,8 +10,8 @@
 #include <ios>
 #include <sstream>
 
-#include "Common/Profiler.h"
-#include "Common/Timer.h"
+#include "Profiler.h"
+#include "Timer.h"
 
 namespace Common
 {

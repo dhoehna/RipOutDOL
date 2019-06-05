@@ -7,7 +7,7 @@
 #include <string>
 #include <type_traits>
 
-#include "Common/Config/Enums.h"
+#include "Config/Enums.h"
 
 namespace Config
 {

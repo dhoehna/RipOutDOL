@@ -9,9 +9,9 @@
 #include <string>
 #include <vector>
 
-#include "Common/CommonTypes.h"
-#include "Common/Debug/MemoryPatches.h"
-#include "Common/Debug/Watches.h"
+#include "CommonTypes.h"
+#include "Debug/MemoryPatches.h"
+#include "Debug/Watches.h"
 
 namespace Common
 {

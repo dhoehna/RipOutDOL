@@ -6,7 +6,7 @@
 
 #include <cstddef>
 #include <string>
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 // Will fail to compile on a non-array:
 template <typename T, size_t N>

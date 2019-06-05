@@ -10,9 +10,9 @@
 #include <string>
 #include <vector>
 
-#include "Common/CommonFuncs.h"
-#include "Common/CommonTypes.h"
-#include "Common/StringUtil.h"
+#include "CommonFuncs.h"
+#include "CommonTypes.h"
+#include "StringUtil.h"
 
 struct CaseInsensitiveStringCompare
 {

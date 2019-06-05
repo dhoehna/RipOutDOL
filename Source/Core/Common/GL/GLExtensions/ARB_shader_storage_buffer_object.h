@@ -21,7 +21,7 @@
 ** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 */
 
-#include "Common/GL/GLExtensions/gl_common.h"
+#include "GL/GLExtensions/gl_common.h"
 
 #define GL_SHADER_STORAGE_BARRIER_BIT 0x2000
 #define GL_MAX_COMBINED_SHADER_OUTPUT_RESOURCES 0x8F39

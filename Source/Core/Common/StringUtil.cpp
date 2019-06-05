@@ -18,12 +18,12 @@
 #include <string>
 #include <vector>
 
-#include "Common/CommonFuncs.h"
-#include "Common/CommonPaths.h"
-#include "Common/CommonTypes.h"
-#include "Common/Logging/Log.h"
-#include "Common/StringUtil.h"
-#include "Common/Swap.h"
+#include "CommonFuncs.h"
+#include "CommonPaths.h"
+#include "CommonTypes.h"
+#include "Logging/Log.h"
+#include "StringUtil.h"
+#include "Swap.h"
 
 #ifdef _WIN32
 #include <Windows.h>

@@ -2,9 +2,9 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/x64ABI.h"
-#include "Common/CommonTypes.h"
-#include "Common/x64Emitter.h"
+#include "x64ABI.h"
+#include "CommonTypes.h"
+#include "x64Emitter.h"
 
 using namespace Gen;
 

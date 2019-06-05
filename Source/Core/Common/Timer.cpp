@@ -16,9 +16,9 @@
 #include <sys/time.h>
 #endif
 
-#include "Common/CommonTypes.h"
-#include "Common/StringUtil.h"
-#include "Common/Timer.h"
+#include "CommonTypes.h"
+#include "StringUtil.h"
+#include "Timer.h"
 
 namespace Common
 {

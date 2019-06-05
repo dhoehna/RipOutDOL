@@ -17,7 +17,7 @@
 #include <endian.h>
 #endif
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

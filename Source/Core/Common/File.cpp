@@ -9,15 +9,15 @@
 #ifdef _WIN32
 #include <io.h>
 
-#include "Common/CommonFuncs.h"
-#include "Common/StringUtil.h"
+#include "CommonFuncs.h"
+#include "StringUtil.h"
 #else
 #include <unistd.h>
 #endif
 
-#include "Common/CommonTypes.h"
-#include "Common/File.h"
-#include "Common/FileUtil.h"
+#include "CommonTypes.h"
+#include "File.h"
+#include "FileUtil.h"
 
 namespace File
 {

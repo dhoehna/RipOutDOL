@@ -7,10 +7,10 @@
 #include <string>
 #include <type_traits>
 
-#include "Common/Analytics.h"
-#include "Common/CommonTypes.h"
-#include "Common/StringUtil.h"
-#include "Common/Thread.h"
+#include "Analytics.h"
+#include "CommonTypes.h"
+#include "StringUtil.h"
+#include "Thread.h"
 
 namespace Common
 {

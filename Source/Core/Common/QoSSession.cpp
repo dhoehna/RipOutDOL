@@ -2,7 +2,7 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/QoSSession.h"
+#include "QoSSession.h"
 #include "Core/ConfigManager.h"
 
 #if defined(_WIN32)

@@ -2,15 +2,15 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Network.h"
+#include "Network.h"
 
 #include <algorithm>
 #include <cctype>
 #include <cstring>
 #include <ctime>
 
-#include "Common/Random.h"
-#include "Common/StringUtil.h"
+#include "Random.h"
+#include "StringUtil.h"
 
 namespace Common
 {

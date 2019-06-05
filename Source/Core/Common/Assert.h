@@ -4,10 +4,10 @@
 
 #pragma once
 
-#include "Common/Common.h"
-#include "Common/CommonFuncs.h"
-#include "Common/Logging/Log.h"
-#include "Common/MsgHandler.h"
+#include "Common.h"
+#include "CommonFuncs.h"
+#include "Logging/Log.h"
+#include "MsgHandler.h"
 
 #ifdef _WIN32
 #define ASSERT_MSG(_t_, _a_, _fmt_, ...)                                                           \

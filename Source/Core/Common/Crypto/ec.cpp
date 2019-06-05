@@ -9,11 +9,11 @@
 #include <algorithm>
 #include <cstring>
 
-#include "Common/Compiler.h"
-#include "Common/Crypto/bn.h"
-#include "Common/Crypto/ec.h"
-#include "Common/Random.h"
-#include "Common/StringUtil.h"
+#include "Compiler.h"
+#include "Crypto/bn.h"
+#include "Crypto/ec.h"
+#include "Random.h"
+#include "StringUtil.h"
 
 #ifdef _MSC_VER
 #pragma warning(push)

@@ -4,9 +4,9 @@
 
 #ifdef USE_UPNP
 
-#include "Common/UPnP.h"
+#include "UPnP.h"
 
-#include "Common/Logging/Log.h"
+#include "Logging/Log.h"
 
 #include <array>
 #include <cstdlib>

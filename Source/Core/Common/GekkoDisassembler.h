@@ -37,8 +37,8 @@
 #include <cstdint>
 #include <string>
 
-#include "Common/CommonTypes.h"
-#include "Common/StringUtil.h"
+#include "CommonTypes.h"
+#include "StringUtil.h"
 
 namespace Common
 {

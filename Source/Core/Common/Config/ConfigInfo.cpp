@@ -4,8 +4,8 @@
 
 #include <cstring>
 
-#include "Common/CommonFuncs.h"
-#include "Common/Config/ConfigInfo.h"
+#include "CommonFuncs.h"
+#include "Config/ConfigInfo.h"
 
 namespace Config
 {

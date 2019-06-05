@@ -7,9 +7,9 @@
 #include <cstddef>
 #include <vector>
 
-#include "Common/Assert.h"
-#include "Common/CommonTypes.h"
-#include "Common/MemoryUtil.h"
+#include "Assert.h"
+#include "CommonTypes.h"
+#include "MemoryUtil.h"
 
 namespace Common
 {

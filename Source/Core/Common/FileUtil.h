@@ -11,10 +11,10 @@
 
 #include <sys/stat.h>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 #ifdef _WIN32
-#include "Common/StringUtil.h"
+#include "StringUtil.h"
 #endif
 
 // User directory indices for GetUserPath

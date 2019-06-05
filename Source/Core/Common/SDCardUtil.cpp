@@ -32,7 +32,7 @@
 // A simple and portable piece of code used to generate a blank FAT32 image file.
 // Modified for Dolphin.
 
-#include "Common/SDCardUtil.h"
+#include "SDCardUtil.h"
 
 #include <algorithm>
 #include <cinttypes>
@@ -42,10 +42,10 @@
 #include <ctime>
 #include <string>
 
-#include "Common/CommonFuncs.h"
-#include "Common/CommonTypes.h"
-#include "Common/File.h"
-#include "Common/Logging/Log.h"
+#include "CommonFuncs.h"
+#include "CommonTypes.h"
+#include "File.h"
+#include "Logging/Log.h"
 
 #ifndef _WIN32
 #include <unistd.h>  // for unlink()

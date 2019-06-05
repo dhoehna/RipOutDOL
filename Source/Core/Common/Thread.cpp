@@ -2,9 +2,9 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Thread.h"
-#include "Common/CommonFuncs.h"
-#include "Common/CommonTypes.h"
+#include "Thread.h"
+#include "CommonFuncs.h"
+#include "CommonTypes.h"
 
 #ifdef _WIN32
 #include <windows.h>

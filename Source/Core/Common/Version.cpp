@@ -2,11 +2,11 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Version.h"
+#include "Version.h"
 
 #include <string>
 
-#include "Common/scmrev.h"
+#include "scmrev.h"
 
 namespace Common
 {

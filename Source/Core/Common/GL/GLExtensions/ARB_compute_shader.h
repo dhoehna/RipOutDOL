@@ -21,7 +21,7 @@
 ** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 */
 
-#include "Common/GL/GLExtensions/gl_common.h"
+#include "GL/GLExtensions/gl_common.h"
 
 #define GL_COMPUTE_SHADER 0x91B9
 #define GL_MAX_COMPUTE_UNIFORM_BLOCKS 0x91BB

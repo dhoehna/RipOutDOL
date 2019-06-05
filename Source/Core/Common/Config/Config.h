@@ -10,9 +10,9 @@
 #include <optional>
 #include <string>
 
-#include "Common/Config/ConfigInfo.h"
-#include "Common/Config/Enums.h"
-#include "Common/Config/Layer.h"
+#include "Config/ConfigInfo.h"
+#include "Config/Enums.h"
+#include "Config/Layer.h"
 
 namespace Config
 {

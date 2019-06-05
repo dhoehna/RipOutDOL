@@ -7,7 +7,7 @@
 #include <cstddef>
 #include <vector>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

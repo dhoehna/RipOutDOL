@@ -4,7 +4,7 @@
 
 #include <windows.h>
 
-#include "Common/Logging/ConsoleListener.h"
+#include "Logging/ConsoleListener.h"
 
 ConsoleListener::ConsoleListener()
 {

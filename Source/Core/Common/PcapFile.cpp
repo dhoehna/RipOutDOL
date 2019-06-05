@@ -4,9 +4,9 @@
 
 #include <chrono>
 
-#include "Common/CommonTypes.h"
-#include "Common/File.h"
-#include "Common/PcapFile.h"
+#include "CommonTypes.h"
+#include "File.h"
+#include "PcapFile.h"
 
 namespace Common
 {

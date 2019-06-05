@@ -7,7 +7,7 @@
 #include <cstddef>
 #include <type_traits>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common::Random
 {

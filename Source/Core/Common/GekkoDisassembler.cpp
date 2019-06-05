@@ -34,9 +34,9 @@
 
 #include <string>
 
-#include "Common/CommonTypes.h"
-#include "Common/GekkoDisassembler.h"
-#include "Common/StringUtil.h"
+#include "CommonTypes.h"
+#include "GekkoDisassembler.h"
+#include "StringUtil.h"
 
 namespace Common
 {

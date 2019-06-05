@@ -2,7 +2,7 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/SFMLHelper.h"
+#include "SFMLHelper.h"
 
 #include <SFML/Network/Packet.hpp>
 

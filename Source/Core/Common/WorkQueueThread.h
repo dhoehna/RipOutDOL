@@ -8,8 +8,8 @@
 #include <queue>
 #include <thread>
 
-#include "Common/Event.h"
-#include "Common/Flag.h"
+#include "Event.h"
+#include "Flag.h"
 
 // A thread that executes the given function for every item placed into its queue.
 

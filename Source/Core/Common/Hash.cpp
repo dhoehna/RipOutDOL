@@ -2,14 +2,14 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Hash.h"
+#include "Hash.h"
 
 #include <algorithm>
 #include <cstring>
-#include "Common/BitUtils.h"
-#include "Common/CPUDetect.h"
-#include "Common/CommonFuncs.h"
-#include "Common/Intrinsics.h"
+#include "BitUtils.h"
+#include "CPUDetect.h"
+#include "CommonFuncs.h"
+#include "Intrinsics.h"
 
 #ifdef _M_ARM_64
 #include <arm_acle.h>

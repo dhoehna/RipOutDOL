@@ -6,8 +6,8 @@
 #include <cstring>
 #include <map>
 
-#include "Common/Config/Config.h"
-#include "Common/Config/Layer.h"
+#include "Config/Config.h"
+#include "Config/Layer.h"
 
 namespace Config
 {

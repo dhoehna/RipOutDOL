@@ -2,12 +2,12 @@
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
-#include "Common/Random.h"
+#include "Random.h"
 
 #include <mbedtls/entropy.h>
 #include <mbedtls/hmac_drbg.h>
 
-#include "Common/Assert.h"
+#include "Assert.h"
 
 namespace Common::Random
 {

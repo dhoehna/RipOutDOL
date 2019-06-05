@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <vector>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 #ifdef _MSC_VER
 #include <intrin.h>

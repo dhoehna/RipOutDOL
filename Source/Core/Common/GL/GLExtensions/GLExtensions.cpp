@@ -5,9 +5,9 @@
 #include <sstream>
 #include <unordered_map>
 
-#include "Common/GL/GLContext.h"
-#include "Common/GL/GLExtensions/GLExtensions.h"
-#include "Common/Logging/Log.h"
+#include "GL/GLContext.h"
+#include "GL/GLExtensions/GLExtensions.h"
+#include "Logging/Log.h"
 
 #if defined(__linux__) || defined(__APPLE__)
 #include <dlfcn.h>

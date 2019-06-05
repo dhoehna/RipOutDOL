@@ -6,7 +6,7 @@
 #include <list>
 #include <map>
 
-#include "Common/Config/Config.h"
+#include "Config/Config.h"
 
 namespace Config
 {

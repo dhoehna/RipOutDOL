@@ -4,7 +4,7 @@
 
 // Thanks to Treeki for writing the original class - 29/01/2012
 
-#include "Common/SettingsHandler.h"
+#include "SettingsHandler.h"
 
 #include <cstddef>
 #include <ctime>
@@ -12,7 +12,7 @@
 #include <sstream>
 #include <string>
 
-#include "Common/CommonTypes.h"
+#include "CommonTypes.h"
 
 namespace Common
 {

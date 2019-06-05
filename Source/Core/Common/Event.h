@@ -20,7 +20,7 @@
 #include <condition_variable>
 #include <mutex>
 
-#include "Common/Flag.h"
+#include "Flag.h"
 
 namespace Common
 {

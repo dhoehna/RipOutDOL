@@ -12,11 +12,11 @@
 #include <tuple>
 #include <type_traits>
 
-#include "Common/Assert.h"
-#include "Common/BitSet.h"
-#include "Common/CodeBlock.h"
-#include "Common/CommonTypes.h"
-#include "Common/x64ABI.h"
+#include "Assert.h"
+#include "BitSet.h"
+#include "CodeBlock.h"
+#include "CommonTypes.h"
+#include "x64ABI.h"
 
 namespace Gen
 {
